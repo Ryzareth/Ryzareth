@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Saya adalah designer dan frontend developer<br>
 
 
